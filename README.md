@@ -1,4 +1,4 @@
-[requirements.txt](https://github.com/user-attachments/files/23297562/requirements.txt)# Time-Series-Analysis-Forecasting-AAPL-Stock
+#Title:  Time-Series-Analysis-Forecasting-AAPL-Stock
 
 Objective:
 To analyze historical Apple Inc. (AAPL) stock prices, apply statistical and deep-learning forecasting techniques (ARIMA, SARIMA, Prophet, LSTM), and deliver a reproducible pipeline with visualizations and a Power BI dashboard for stakeholders.
@@ -44,14 +44,3 @@ Current models are univariate. Adding exogenous signals (news sentiment, macro i
 Implement walk-forward validation and hyperparameter tuning (GridSearch / Bayesian) for production readiness.
 
 Deploy live dashboard with scheduled refresh for operational use.
-
-[Uploading requirements.txt…]()
-pandas
-numpy
-matplotlib
-scikit-learn
-statsmodels
-prophet; python_version>='3.8'
-tensorflow
-python-pptx
-
